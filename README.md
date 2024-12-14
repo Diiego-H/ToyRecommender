@@ -1,2 +1,2 @@
 # ToyRecommender
-University project: User-based movie recommender (coded in Python and using Numpy/Pandas libraries).
+University project: User-based movie recommender (coded in Python using Numpy/Pandas libraries).
